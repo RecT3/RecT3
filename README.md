@@ -1,5 +1,5 @@
 # Hello, welcome to my GitHub! ![](https://komarev.com/ghpvc/?username=RecT3&color=blueviolet)
-I am a senior Computer Science major at Howard University. I love learning about artificial intelligence and automation. I have a background in business management and software development. I'm a skilled leader and enthusiastic about collaborating on meaningful projects. Currently, I’m finishing up my last semester of undergraduate studies while working for Hewlett Packard Inc. on their Enterprise Business Planning Team.
+I am a Master's of Computer Science Student at Rice University. I love learning about artificial intelligence and automation. I have a background in business management and software development. I'm a skilled leader and enthusiastic about collaborating on meaningful projects.
 
 ---
 <details open>
@@ -46,13 +46,6 @@ I am a senior Computer Science major at Howard University. I love learning about
 <br />
 <br />
 <br />
-
----
-
-<details>
-  <summary><h3>GitHub Stats 🧮</h3></summary>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=RecT3&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
