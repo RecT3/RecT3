@@ -38,18 +38,3 @@ I am a Master's of Computer Science Student at Rice University. I love learning 
   </div>
 
 </details>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-      <img src="https://github-readme-stats.vercel.app/api?username=RecT3&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RecT3&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
-    </a>
-  </p>
-</details>
